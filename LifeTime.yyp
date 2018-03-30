@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "347ab4d8-910f-4d0b-8363-d6bd453649cc",
+            "Value": {
+                "id": "3ee59306-caee-4f9c-b89c-d52406e49b3c",
+                "resourcePath": "sprites\\spr_collider\\spr_collider.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "391f0918-60be-408d-9f8b-e7c83b472702",
             "Value": {
                 "id": "f1296678-d7e3-4a80-8896-4767b41eadde",
@@ -108,6 +116,14 @@
                 "id": "67bdf021-64dd-4091-9b1f-d45659282475",
                 "resourcePath": "views\\566eaac5-51f2-4aeb-b5fa-67081c4090f3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5ee21768-290c-406e-b3fd-6a82ec354d3e",
+            "Value": {
+                "id": "62f25b3b-38f4-46aa-b244-caa78c4c29e5",
+                "resourcePath": "sprites\\spr_tiles\\spr_tiles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,11 +183,27 @@
             }
         },
         {
+            "Key": "93fdd99c-e480-4b2a-a152-2925afbf8f5d",
+            "Value": {
+                "id": "6e4e327e-772e-41d8-9d06-ebf4c8333dfe",
+                "resourcePath": "objects\\player\\player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "954fa5c4-8728-4b8e-820f-2eca111eff42",
             "Value": {
                 "id": "72bc0161-cf31-4494-98b8-7f4d68528845",
                 "resourcePath": "views\\954fa5c4-8728-4b8e-820f-2eca111eff42.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9bc38c59-dd91-4e77-b5c8-531db471401d",
+            "Value": {
+                "id": "9a757142-943d-4841-9bea-65e3d028051d",
+                "resourcePath": "scripts\\scr_physics\\scr_physics.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -215,6 +247,14 @@
             }
         },
         {
+            "Key": "ce8af73f-fc24-4a26-90cd-b2ec92f969bf",
+            "Value": {
+                "id": "45e84d67-bb96-4219-87fe-6a5bdea94482",
+                "resourcePath": "objects\\collider\\collider.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f2e2a369-a6b5-481e-b295-26281d5188f0",
             "Value": {
                 "id": "af701cdb-aeb9-429c-b989-ce86eadcdc41",
@@ -248,7 +288,7 @@
         }
     ],
     "script_order": [
-        
+        "9bc38c59-dd91-4e77-b5c8-531db471401d"
     ],
     "tutorial": ""
 }
