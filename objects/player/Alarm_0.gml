@@ -1,0 +1,1 @@
+canCharge = 1;
